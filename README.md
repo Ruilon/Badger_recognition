@@ -14,3 +14,6 @@ In the above attached videos, you will see video frames like the following.
 <br /> Subplot b: the average variation of the activated pixels in the current frame. A threshold is set to 20. A frame whose average variation above 20 is sent for classification. 
 <br />  Subplot c: the cleared version of the activated pixels, with optical flow indicating of the motion estimations. 
 <br />  Subplot d: if a frame is activated, it will be classified by the trained CNN framework, the classification result will be printed on the top right corner. 
+
+The dataset link for training the CNN recongintion framework is attache below:
+<br />  <a href="http://www.quora.com/Adam-DAngelo">Quora profile link for Adam D'Angelo</a>
