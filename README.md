@@ -1,4 +1,4 @@
-# web page for badger recognition
+
 The following links direct to 5 different demo videos. 
 <br /> [Badger 1](https://youtu.be/u4Bp4VyX5bA) 
 <br /> [Badger 2](https://youtu.be/1uvLCCjuAlE)
