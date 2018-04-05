@@ -1,4 +1,8 @@
 # web page for badger recognition
-This page provides our dataset and code for the badger recognition project.
+The following links direct to 5 different demo videos. 
 
+
+
+
+[![IMAGE ALT TEXT HERE](https://youtu.be/u4Bp4VyX5bA/0.jpg)]
 [Badger 1](https://youtu.be/u4Bp4VyX5bA)
