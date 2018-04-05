@@ -13,10 +13,4 @@ In the above attached videos, you will see video frames like the following.
 <br /> Subplot a: a input frame in a video.
 <br /> Subplot b: the average variation of the activated pixels in the current frame. A threshold is set to 20. A frame whose average variation above 20 is sent for classification. 
 <br />  Subplot c: the cleared version of the activated pixels, with optical flow indicating of the motion estimations. 
-<br />  Subplot d: the classification result is printed on the top right corner. 
-
-
-
-
-
-
+<br />  Subplot d: If a frame is activated, it will be classified by the trained CNN framework, the classification result will be printed on the top right corner. 
