@@ -9,4 +9,5 @@ The following links direct to 5 different demo videos.
 <br /> [Fox 3](https://youtu.be/HGgAdevcbB4)
 
 
-<br /> ![alt text](https://github.com/RuilongMachineLearning/Badger_recognition/badger_profile_3.jpg)
+
+<br /> ![Screenshot](badger_profile_3.jpg)
