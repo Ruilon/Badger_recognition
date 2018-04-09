@@ -16,4 +16,4 @@ In the above attached videos, you will see video frames like the following.
 <br />  Subplot d: if a frame is activated, it will be classified by the trained CNN framework, the classification result will be printed on the top right corner. 
 
 The dataset link for training the CNN recongintion framework is attache below:
-<br />  <a href="https://figshare.com/s/56dc0d492667f09c1ed3">The Woodchester Badger Dataset</a>
+<br />  <a href="https://figshare.com/s/56dc0d492667f09c1ed3">The Badger Dataset</a>
