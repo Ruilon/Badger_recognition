@@ -15,4 +15,7 @@ In the above attached videos, you will see video frames like the following.
 <br />  Subplot c: the cleared version of the activated pixels, with optical flow indicating of the motion estimations. 
 <br />  Subplot d: if a frame is activated, it will be classified by the trained CNN framework, the classification result will be printed on the top right corner. 
 
+The recongnition can be achieved by a self-designed CNN framework (CNN-1) or a transfer learning framework based on AlexNet (CNN-2)
+<br /> ![Screenshot](CNN_1.jpg)
+<br /> ![Screenshot](CNN_2.jpg)
 
